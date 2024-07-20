@@ -1,4 +1,4 @@
-### webook
+# webook
 This is a Cypress project for end-to-end testing.
 
 ## Prerequisites
@@ -7,9 +7,9 @@ Node.js
 
 ## Installation
 
-# 1. Clone the repository
+### 1. Clone the repository
 git clone https://github.com/sitarrashafiq/webook.git
-# 2. Intstall Dependencies
+### 2. Intstall Dependencies
    npm install
    
 ## Running Tests
